@@ -1,0 +1,5 @@
+In Python, everything is an Object
+
+shebang #! <path to the python executable>
+#!/usr/bin/env python3
+
